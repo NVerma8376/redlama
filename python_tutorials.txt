@@ -3,7 +3,7 @@ Search results for 'python tutorial' in r/learnpython:
 
 Title: I'm 100% self taught, landed my first job! My experience!
 URL: https://www.reddit.com/r/learnpython/comments/ctkypf/im_100_self_taught_landed_my_first_job_my/
-Score: 3571
+Score: 3572
 Comments: 381
 --------------------------------------------------
 
@@ -15,48 +15,48 @@ Comments: 276
 
 Title: After 5 years of learning Python as a hobby, yesterday I did my first contribution to an open source project!
 URL: https://www.reddit.com/r/learnpython/comments/he7vpy/after_5_years_of_learning_python_as_a_hobby/
-Score: 1986
+Score: 1978
 Comments: 60
 --------------------------------------------------
 
 Title: Learning Python? Keep at it! It could change your life
 URL: https://www.reddit.com/r/learnpython/comments/f48ojm/learning_python_keep_at_it_it_could_change_your/
-Score: 1290
+Score: 1294
 Comments: 215
 --------------------------------------------------
 
 Title: Would anyone be interested in watching me create a Django app from scratch on a live stream?
 URL: https://www.reddit.com/r/learnpython/comments/grfm5v/would_anyone_be_interested_in_watching_me_create/
-Score: 1199
+Score: 1200
 Comments: 118
 --------------------------------------------------
 
 Title: Thank you guys and Python for giving me joy (NEW PYTHON PROGRAMMERS, READ THIS).
 URL: https://www.reddit.com/r/learnpython/comments/l0lyh2/thank_you_guys_and_python_for_giving_me_joy_new/
-Score: 1150
+Score: 1151
 Comments: 127
 --------------------------------------------------
 
 Title: I Actually Got a Job!
 URL: https://www.reddit.com/r/learnpython/comments/o16gvr/i_actually_got_a_job/
-Score: 1104
+Score: 1102
 Comments: 95
 --------------------------------------------------
 
 Title: Going from print('Hello World)' to tutorial hell to building my own "data pipeline" - From a beginner to beginners
 URL: https://www.reddit.com/r/learnpython/comments/jwgatc/going_from_printhello_world_to_tutorial_hell_to/
-Score: 1041
+Score: 1051
 Comments: 131
 --------------------------------------------------
 
 Title: I was finally hired as a junior software developer, and it only took me.... seven years! Here's a quick write up on my journey for those on a similar path.
 URL: https://www.reddit.com/r/learnpython/comments/mivbxe/i_was_finally_hired_as_a_junior_software/
-Score: 1016
+Score: 1014
 Comments: 46
 --------------------------------------------------
 
 Title: New, free book from Al Sweigart: Python Programming Exercises, Gently Explained
 URL: https://www.reddit.com/r/learnpython/comments/y38qqx/new_free_book_from_al_sweigart_python_programming/
-Score: 1002
+Score: 1000
 Comments: 83
 --------------------------------------------------
