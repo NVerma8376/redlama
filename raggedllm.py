@@ -40,7 +40,7 @@ class LightRAG:
 
 if __name__ == "__main__":
     rag = LightRAG()
-    rag.load_knowledge_base('iran_conflict_comments.json')  # Use your JSON file here
+    rag.load_knowledge_base('iran_conflict_comments.json')  
 
     while True:
         user_query = input("\nAsk a question (or type 'exit'): ")
